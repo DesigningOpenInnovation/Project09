@@ -1,4 +1,7 @@
-Project09
-=========
+Group Name: FIF
 
-Edit this text
+=========
+Group Memebers: Justina Vengraityte, Oona Colliander, Theresa Berg, Alexandra Stadler
+
+Concept: Fashion Institute Finland - creating a platform that unifies all different stakeholders of the Finnish 
+fashion industry together and building a community around it.
